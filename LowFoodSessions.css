@@ -218,3 +218,8 @@
 #resengo-booknow #resengo-process-flow > #resengo-wrapper .allergy-container {
     background-color: #fff;
 }
+
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .grey-box .ui-datepicker-header {
+    background-color: Red; 
+}
