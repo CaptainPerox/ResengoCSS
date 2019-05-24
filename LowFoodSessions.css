@@ -85,7 +85,7 @@
 }
 
 #resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker td.available a.ui-state-default {
-	color: #2684E0;
+	color: #202F23;
 }
 #resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker td.queue a.ui-state-default,
 #resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker td.offline a.ui-state-default {
@@ -93,7 +93,7 @@
 }
 
 #resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker a:before {
-    border-color: #2684E0;
+    border-color: #202F23;
 }
 
 #resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker td.queue a.ui-state-default:before,
@@ -121,17 +121,17 @@
 /*Buttons*/
 
 #resengo-booknow #resengo-process-flow > #resengo-wrapper button.white {
-    color: #2684E0;
+    color: #202F23;
     background-color: #fff;
 }
 
 #resengo-booknow #resengo-process-flow > #resengo-wrapper button.white svg.icon {
-    fill: #2684E0;
+    fill: #202F23;
 
 }
 
 #resengo-booknow #resengo-process-flow > #resengo-wrapper button.white:hover {
-    color: #2684E0;
+    color: #202F23;
     background-color: #fff;
 }
 
