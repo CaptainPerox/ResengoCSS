@@ -1,0 +1,220 @@
+/*RESENGO BRAND COLORS*/
+/*General styling*/
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper {
+	font-family: "Montserrat",Arial,sans-serif;
+    font-weight: 400;
+    color: #202F23;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper,
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker .ui-datepicker-header,
+#resengo-booknow #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td a, #resengo-process-flow>#resengo-wrapper .ui-datepicker tbody td a.ui-state-default,
+#resengo-booknow #resengo-process-flow>#resengo-wrapper ul.toggle-links,
+#resengo-booknow #resengo-process-flow>#resengo-wrapper label,
+#resengo-process-flow>#resengo-wrapper select, #resengo-process-flow>#resengo-wrapper textarea, #resengo-process-flow>#resengo-wrapper input[type="text"], #resengo-process-flow>#resengo-wrapper input[type="password"], #resengo-process-flow>#resengo-wrapper input[type="datetime"], #resengo-process-flow>#resengo-wrapper input[type="datetime-local"], #resengo-process-flow>#resengo-wrapper input[type="date"], #resengo-process-flow>#resengo-wrapper input[type="month"], #resengo-process-flow>#resengo-wrapper input[type="time"], #resengo-process-flow>#resengo-wrapper input[type="week"], #resengo-process-flow>#resengo-wrapper input[type="number"], #resengo-process-flow>#resengo-wrapper input[type="email"], #resengo-process-flow>#resengo-wrapper input[type="url"], #resengo-process-flow>#resengo-wrapper input[type="search"], #resengo-process-flow>#resengo-wrapper input[type="tel"], #resengo-process-flow>#resengo-wrapper input[type="color"], #resengo-process-flow>#resengo-wrapper .uneditable-input,
+#resengo-booknow #resengo-process-flow>#resengo-wrapper strong,
+#resengo-booknow #resengo-process-flow>#resengo-wrapper .rds-dropdown-label{
+    font-family: "Montserrat",Arial,sans-serif;
+}
+
+
+/*Headings*/
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper h2,
+#resengo-booknow #resengo-process-flow > #resengo-wrapper h3,
+#resengo-booknow #resengo-process-flow > #resengo-wrapper h4 {
+    color: #000;
+	font-family: "Montserrat",Arial,sans-serif;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .light-blue-box h2,
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .light-blue-box h3,
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .light-blue-box h4,
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .dialog-head h2, 
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .dialog-head h3,
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .dialog-head h4{
+    color: #fff;
+}
+
+
+
+/*Brand element colors*/
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .stepper {
+    background-color: #2684E0;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper a {
+    color: #202F23;
+}
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .stepper  a{
+    color: #fff;
+}
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .stepper  .disabled a{
+    color: #1f3045; 
+	opacity: 0.7;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper ul.toggle-links li a.active {
+    background-color: #2684E0;
+    color: #fff;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .hint {
+    background-color: #2684E0;
+}
+
+
+ 
+#resengo-booknow #resengo-process-flow>#resengo-wrapper .ui-datepicker .ui-datepicker-header {
+    background: #EBEEF1;
+    color: #727F8E;
+}
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker .ui-datepicker-prev:hover, 
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker .ui-datepicker-next:hover {
+    background-color: #EBEEF1;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .grey-box .ui-datepicker-calendar thead th {
+    background-color: #EBEEF1;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker a.ui-state-default {
+	color: #000;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker td.available a.ui-state-default {
+	color: #2684E0;
+}
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker td.queue a.ui-state-default,
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker td.offline a.ui-state-default {
+	color: #145466;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker a:before {
+    border-color: #2684E0;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker td.queue a.ui-state-default:before,
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .ui-datepicker td.offline a.ui-state-default:before {
+	border-color: #145466;
+}
+
+/*Background color*/
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .grey-box {
+    background-color: #FAFAFA;
+	/*don't make this transparent*/
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .light-blue-box {
+    background-color: #2684E0;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .dark-blue-box {
+    background-color: #2684E0;
+}
+
+
+
+/*Buttons*/
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper button.white {
+    color: #2684E0;
+    background-color: #fff;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper button.white svg.icon {
+    fill: #2684E0;
+
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper button.white:hover {
+    color: #2684E0;
+    background-color: #fff;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper button {
+    background-color: #2684E0;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper button:hover {
+    background-color: #2684E0;
+    color: #fff;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper button.full svg.icon {
+    fill: #fff;
+	/*next icon*/
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper button.trans {
+    background-color: transparent;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper button.full.trans svg.icon {
+    fill: #2684E0;
+	/*previous icon*/
+}
+
+#resengo-booknow  #resengo-process-flow > #resengo-wrapper .invites-container .invite-person .icon {
+	fill: #2684E0;
+	/*add icon*/
+}
+
+#resengo-booknow  #resengo-process-flow > #resengo-wrapper button.rds-back-button {
+	background-color: #fff;
+	color: #2684E0;
+	border: 2px solid #fff;
+}
+#resengo-booknow  #resengo-process-flow > #resengo-wrapper button.rds-next-button {
+	background-color: #2684E0;
+	color: #fff;
+	border: 2px solid #2684E0;
+}
+#resengo-booknow  #resengo-process-flow > #resengo-wrapper button.rds-next-button:hover {
+	background-color: #2684E0;
+	color: #fff;
+	border: 2px solid #2684E0;
+}
+
+#resengo-booknow #resengo-process-flow>#resengo-wrapper .rds-dropdown {
+	background-color: #F2F3F4;
+}
+
+#resengo-booknow #resengo-process-flow>#resengo-wrapper .rds-dropdown-label {
+	color: #727F8E;
+}
+#resengo-booknow #resengo-process-flow>#resengo-wrapper .rds-dropdown-icon {
+	fill: #727f8e;
+}
+
+/*Flat button - Only visible in waitinglist notification*/
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper button.outline,
+#resengo-booknow #resengo-process-flow > #resengo-wrapper a.button.outline {
+	background-color: white;
+	border: 2px solid #AFB8C2;
+	color: #727f8e;
+	
+}
+#resengo-booknow #resengo-process-flow > #resengo-wrapper button.outline:hover,
+#resengo-booknow #resengo-process-flow > #resengo-wrapper a.button.outline:hover {
+	color: white;
+	border: 2px solid #727f8e;
+	background-color: #727f8e;
+}
+#resengo-booknow #resengo-process-flow > #resengo-wrapper a.button.orange {
+	color: #fff;
+}
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper a.button.orange:hover {
+	color: #EF7124;
+}
+
+/* Allergies background */
+
+#resengo-booknow #resengo-process-flow > #resengo-wrapper .allergy-container {
+    background-color: #fff;
+}
